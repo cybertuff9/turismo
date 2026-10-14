@@ -4,8 +4,8 @@
 
 @php
     $series = [
-        ['key' => 'suv',      'title' => 'SUV SERIES',      'img' => 'img/hero/MACAN.PNG'],
-        ['key' => 'sportcar', 'title' => 'SPORTCAR SERIES', 'img' => 'img/hero/GT3 RS.png'],
+        ['key' => 'suv',      'title' => 'SUV SERIES',      'img' => 'img/hero/macan.png'],
+        ['key' => 'sportcar', 'title' => 'SPORTCAR SERIES', 'img' => 'img/hero/gt3-rs.png'],
         ['key' => 'sedan',    'title' => 'SEDAN SERIES',    'img' => 'img/hero/sedan.png'],
     ];
 @endphp
