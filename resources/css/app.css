@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+[x-cloak] { display: none !important; }
+
+.hero-swiper {
+    --swiper-navigation-color: #ffffff;
+    --swiper-navigation-size: 28px;
+}
+
+.hero-swiper .swiper-pagination-bullet {
+    width: 48px;
+    height: 3px;
+    border-radius: 0;
+    background: #555;
+    opacity: 1;
+}
+
+.hero-swiper .swiper-pagination-bullet-active {
+    background: #dc2626;
+}
